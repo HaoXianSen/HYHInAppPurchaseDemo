@@ -1,0 +1,6 @@
+framework module Pods_IN_App_Purchase_Demo {
+  umbrella header "Pods-IN_App_Purchase_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

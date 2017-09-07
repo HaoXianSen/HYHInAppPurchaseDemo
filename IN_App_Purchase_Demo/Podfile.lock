@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - SVProgressHUD (~> 2.1.2)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 06aa85de4ac0fe1a0bad3df8b6b853113fe326a5
+
+COCOAPODS: 1.2.1
